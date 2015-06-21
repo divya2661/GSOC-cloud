@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8eedba5d3b6ab1347b4a862adacedd6e
+timeCreated: 1434844895
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - explosion_obj: {fileID: 100012, guid: 384371afbb4354cc9a3fc68eab303756, type: 2}
+  - explosion_bal: {fileID: 100008, guid: a93496017806b7740910df5fd946f306, type: 2}
+  - ScoreText: {instanceID: 0}
+  - ans_button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
