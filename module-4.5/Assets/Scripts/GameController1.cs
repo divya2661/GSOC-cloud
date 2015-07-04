@@ -173,7 +173,7 @@ public class GameController1 : MonoBehaviour {
 
 			}
 			scoreCo.text = "Score: " + Score;
-			if(Score<=-2000)
+			if(Score<=-300)
 			{
 				gameOver = true;
 				Destroy(clone[i]);
@@ -206,14 +206,15 @@ public class GameController1 : MonoBehaviour {
 
 			Debug.Log(i);
 			Debug.Log(i);
-			Destroy(clone[i].gameObject);
-			Destroy(clone[i+1].gameObject);
+			Destroy(clone[j].gameObject);
+			Destroy(clone[j+1].gameObject);
 				leftCo.text = "";
 				rightCo.text = "";
 
 
 
 			i++;
+			j=j+2;
 			
 		}
 	}
