@@ -6,6 +6,7 @@ public class GameController1 : MonoBehaviour {
 
 	//char[] char_array = new char[30];
 	//char_array = new char[30];
+
 	public int i=0,j,score=0,num=6,time=60;
 	public string s;
 	public GameObject explosion_obj;
@@ -37,7 +38,6 @@ public class GameController1 : MonoBehaviour {
 
 		GameObject numberGo = GameObject.FindGameObjectWithTag("number");
 		Text numberco = numberGo.GetComponent<Text>();
-		Debug.Log (num);
 		numberco.text = "Number: "+num;
 
 		UItextco.text = s;
