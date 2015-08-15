@@ -47,7 +47,7 @@ public class GameController2 : MonoBehaviour {
 		characters.Add("A large male bird that has a very long bright blue and green tail that it can lift up and spread apart like a fan");
 		characters.Add("A plant-eating mammal, with long ears, long hind legs, and a short tail");
 		characters.Add("A marine reptiles that have a toothless horny beak and a hard shell to protect it");
-		characters.Add ("A large long necked mammel ,It can survive for long periods without food or drink, chiefly by using up the fat reserves in their humps");
+		characters.Add ("A large long necked mammal ,It can survive for long periods without food or drink, chiefly by using up the fat reserves in their humps");
 		characters.Add("A small mammal with soft fur. It is widely kept as a pet or for catching mice");
 		characters.Add("A fully grown female animal, breed of ox, kept to produce milk or beef");
 		characters.Add ("A mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice");

@@ -14,7 +14,7 @@ public class GameController1 : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		characters.Add ("A large long necked mammel ,It can survive for long periods without food or drink, chiefly by using up the fat reserves in their humps");
+		characters.Add ("A large long necked mammal ,It can survive for long periods without food or drink, chiefly by using up the fat reserves in their humps");
 		characters.Add("A small mammal with soft fur. It is widely kept as a pet or for catching mice");
 		characters.Add("A fully grown female animal, breed of ox, kept to produce milk or beef");
 		characters.Add ("A mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice");
@@ -75,7 +75,7 @@ public class GameController1 : MonoBehaviour {
 		chars.Add("APPLE"); 
 		chars.Add("BANANA"); 
 		chars.Add("BRINJAL"); 
-		chars.Add("CARROR"); 
+		chars.Add("CARROt"); 
 		chars.Add("COCONUT");
 		chars.Add("GRAPE");
 		chars.Add("GUAVA");
