@@ -244,29 +244,8 @@ public class GameController1 : MonoBehaviour {
 				}
 			}
 
-
-
-
 			Destroy(clone[i]);
-
 			i++;
-
-
 		}
 	}
-
-
-
-
-
-
 }
-
-	GameObject dog = GameObject.FindGameObjectWithTag ("dog");
-	GameObject donkey = GameObject.FindGameObjectWithTag ("donkey");
-	GameObject duck = GameObject.FindGameObjectWithTag ("duck");
-	GameObject apple = GameObject.FindGameObjectWithTag ("apple");
-	Vector2 dogpos = GameObject.FindGameObjectWithTag ("dog").transform.position;
-	Vector2 donkeypos = GameObject.FindGameObjectWithTag ("donkey").transform.position;
-	Vector2 duckpos = GameObject.FindGameObjectWithTag ("duck").transform.position;
-	Vector2 applepos = GameObject.FindGameObjectWithTag ("apple").transform.position;
